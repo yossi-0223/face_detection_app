@@ -1,0 +1,7 @@
+color_code
+#EBE6DF
+#FACECC
+#932F34
+#013D39
+#178B28
+#EEC8E9
